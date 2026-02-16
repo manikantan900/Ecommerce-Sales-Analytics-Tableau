@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive E-commerce Sales Analytics Dashboard developed using Tableau to analyze revenue performance, customer behavior, and regional sales trends.
+This project presents an interactive **E-commerce Sales Analytics Dashboard** developed using **Tableau** to analyze revenue performance, customer behavior, and regional sales trends.
 
 The dashboard enables business stakeholders to monitor key performance indicators (KPIs) and make data-driven decisions to improve sales strategy and profitability.
 
