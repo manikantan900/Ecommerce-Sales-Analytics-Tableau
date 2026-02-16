@@ -44,7 +44,7 @@ Interactive Filters for Dynamic Exploration
 
 ## 📸 Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/ecommerce_sales_dashboard.png)
 
 
 ## 📈 Business Insights
